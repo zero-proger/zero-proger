@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @zero-proger Grigory
 EN / Англ
+👋 Hi, I’m @zero-proger Grigory
 I study various programming languages such as JavaScript, Python, C++ (for microcontrollers), Rust (for beginners)
 They use programming environments:
   I rarely use the Arduino IDE;
@@ -9,6 +9,7 @@ I work with AVR and ESP microcontrollers, also work with Beaglebone Black single
 I am writing (trying to write) Telegram bots in Python
 
 RU / Рус
+👋 Привет, Я @zero-proger Григорий
 Я изучаю различные языки программирования, такие как: JavaScript, Python, C++ (для микроконтроллеров), Rust (для начинающих)
 Используют среды для программирования:
   Редко использую Arduino IDE;
