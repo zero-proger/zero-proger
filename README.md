@@ -1,7 +1,7 @@
 EN / Англ
 👋 Hi, I’m @zero-proger Grigory
-I study various programming languages such as JavaScript, Python, C++ (for microcontrollers), Rust (for beginners)
-They use programming environments:
+- I study various programming languages such as JavaScript, Python, C++ (for microcontrollers), Rust (for beginners)
+- They use programming environments:
   I rarely use the Arduino IDE;
   Visual Studio Code with the PlatformIO extension for working with microcontrollers;
   Visual Studio Code is rarely PyCharm for Python programming;
